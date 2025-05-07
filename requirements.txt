@@ -1,0 +1,9 @@
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.1
+tensorflow==2.15.0
+seaborn==0.13.2
+joblib>=1.0.0
+streamlit==1.35.0
+SQLAlchemy==1.4.54
+imbalanced-learn==0.12.0
