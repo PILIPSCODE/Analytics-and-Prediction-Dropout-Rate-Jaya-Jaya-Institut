@@ -41,11 +41,11 @@ Dashboard ini dikembangkan menggunakan **Metabase** sebagai alat bantu visualisa
 3. Masukan Email:kunciropilihis@gmail.com Password:Kunciro123.
 
 ### Cara Menjalankan Model Prediksi
-[Prediction-App]()
+[Prediction-App](https://analytics-and-prediction-dropout-rate-jaya-jaya-institut-wxfja.streamlit.app/)
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/PILIPSCODE/Analytics-and-Prediction-Dropout-Rate-Jaya-Jaya-Institut
    cd repo-name
 2. Install Package :
    ```bash
